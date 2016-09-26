@@ -1,0 +1,2 @@
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTalesContent\obj\x86\Debug\TheLumberJackTalesContent.contentprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTalesContent\obj\x86\Debug\TheLumberJackTalesContent.contentprojResolveAssemblyReference.cache

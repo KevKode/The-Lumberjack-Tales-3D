@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>house.FBX</Source>
+      <Name>house</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\house.xnb</Output>
+      <Time>2015-05-03T15:34:54-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\house_0.xml</Key>
+        <Value>2016-09-24T18:54:02.5081292-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\Farmhouse Texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>shrub1.FBX</Source>
+      <Name>shrub1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\shrub1.xnb</Output>
+      <Time>2015-05-03T15:34:54-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\shrub1_0.xml</Key>
+        <Value>2016-09-24T18:54:07.5701943-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\shrub_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>shrub2.FBX</Source>
+      <Name>shrub2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\shrub2.xnb</Output>
+      <Time>2015-05-03T15:34:54-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\shrub2_0.xml</Key>
+        <Value>2016-09-24T18:54:10.956587-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\shrub_1.xnb</Request>
+    </Item>
+    <Item>
+      <Source>squirrel.FBX</Source>
+      <Name>squirrel</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\squirrel.xnb</Output>
+      <Time>2015-05-03T15:34:54-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\squirrel_0.xml</Key>
+        <Value>2016-09-24T18:54:12.6727942-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\Creature2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>tree1.FBX</Source>
+      <Name>tree1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\tree1.xnb</Output>
+      <Time>2015-05-03T15:34:56-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\tree1_0.xml</Key>
+        <Value>2016-09-24T18:54:15.4769303-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\trunk_0.xnb</Request>
+      <Request>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\leaves1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>tree2.FBX</Source>
+      <Name>tree2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\tree2.xnb</Output>
+      <Time>2015-05-03T15:34:56-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\tree2_0.xml</Key>
+        <Value>2016-09-24T18:54:17.5577896-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\trunk_1.xnb</Request>
+      <Request>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\leaves2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>tree3.FBX</Source>
+      <Name>tree3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\tree3.xnb</Output>
+      <Time>2015-05-03T15:34:56-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\tree3_0.xml</Key>
+        <Value>2016-09-24T18:54:19.8472119-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\trunk_2.xnb</Request>
+      <Request>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\leaves3_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>worker.FBX</Source>
+      <Name>worker</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\worker.xnb</Output>
+      <Time>2015-06-03T11:35:36-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\worker_0.xml</Key>
+        <Value>2016-09-24T18:54:21.3869103-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\The Lumberjack_Base_Color_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>world.FBX</Source>
+      <Name>world</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\world.xnb</Output>
+      <Time>2015-05-03T15:34:56-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\world_0.xml</Key>
+        <Value>2016-09-24T18:54:23.0701056-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\ground_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>blood.FBX</Source>
+      <Name>blood</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\blood.xnb</Output>
+      <Time>2015-05-16T11:51:46-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\blood_0.xml</Key>
+        <Value>2016-09-24T18:54:24.7652089-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\bloodText_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>test.FBX</Source>
+      <Name>test</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\test.xnb</Output>
+      <Time>2015-05-28T13:24:08-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\test_0.xml</Key>
+        <Value>2016-09-24T18:54:25.414668-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>scorehealth.spritefont</Source>
+      <Name>scorehealth</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\scorehealth.xnb</Output>
+      <Time>2015-05-18T15:49:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>house.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\house_0.xml</Output>
+      <Time>2015-05-03T15:34:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\FBX\6E2F3294\house.fbm\Farmhouse Texture.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\Farmhouse Texture_0.xnb</Output>
+      <Time>2016-09-24T18:54:02.1061633-04:00</Time>
+    </Item>
+    <Item>
+      <Source>shrub1.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\shrub1_0.xml</Output>
+      <Time>2015-05-03T15:34:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\FBX\A05D32C5\shrub1.fbm\shrub.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\shrub_0.xnb</Output>
+      <Time>2016-09-24T18:54:05.3936396-04:00</Time>
+    </Item>
+    <Item>
+      <Source>shrub2.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\shrub2_0.xml</Output>
+      <Time>2015-05-03T15:34:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\FBX\A06232C6\shrub2.fbm\shrub.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\shrub_1.xnb</Output>
+      <Time>2016-09-24T18:54:08.8821054-04:00</Time>
+    </Item>
+    <Item>
+      <Source>squirrel.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\squirrel_0.xml</Output>
+      <Time>2015-05-03T15:34:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\FBX\9F033E7\squirrel.fbm\Creature2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\Creature2_0.xnb</Output>
+      <Time>2016-09-24T18:54:12.0243256-04:00</Time>
+    </Item>
+    <Item>
+      <Source>tree1.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\tree1_0.xml</Output>
+      <Time>2015-05-03T15:34:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\FBX\6CEB3251\tree1.fbm\trunk.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\trunk_0.xnb</Output>
+      <Time>2016-09-24T18:54:14.5622671-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\FBX\6CEB3251\tree1.fbm\leaves1.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\leaves1_0.xnb</Output>
+      <Time>2016-09-24T18:54:14.6483286-04:00</Time>
+    </Item>
+    <Item>
+      <Source>tree2.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\tree2_0.xml</Output>
+      <Time>2015-05-03T15:34:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\FBX\6CF03252\tree2.fbm\trunk.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\trunk_1.xnb</Output>
+      <Time>2016-09-24T18:54:16.7090132-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\FBX\6CF03252\tree2.fbm\leaves2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\leaves2_0.xnb</Output>
+      <Time>2016-09-24T18:54:16.7762325-04:00</Time>
+    </Item>
+    <Item>
+      <Source>tree3.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\tree3_0.xml</Output>
+      <Time>2015-05-03T15:34:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\FBX\6CF53253\tree3.fbm\trunk.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\trunk_2.xnb</Output>
+      <Time>2016-09-24T18:54:19.0046179-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\FBX\6CF53253\tree3.fbm\leaves3.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\leaves3_0.xnb</Output>
+      <Time>2016-09-24T18:54:19.0676617-04:00</Time>
+    </Item>
+    <Item>
+      <Source>worker.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\worker_0.xml</Output>
+      <Time>2015-06-03T11:35:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\FBX\A1D5330A\worker.fbm\The Lumberjack_Base_Color.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\The Lumberjack_Base_Color_0.xnb</Output>
+      <Time>2016-09-24T18:54:21.250823-04:00</Time>
+    </Item>
+    <Item>
+      <Source>world.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\world_0.xml</Output>
+      <Time>2015-05-03T15:34:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\FBX\6E723298\world.fbm\ground.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\ground_0.xnb</Output>
+      <Time>2016-09-24T18:54:23.0631003-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blood.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\blood_0.xml</Output>
+      <Time>2015-05-16T11:51:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\FBX\6D9A3280\blood.fbm\bloodText.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\bloodText_0.xnb</Output>
+      <Time>2016-09-24T18:54:24.5680719-04:00</Time>
+    </Item>
+    <Item>
+      <Source>test.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\test_0.xml</Output>
+      <Time>2015-05-28T13:24:08-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{F9BB1CEF-DF4B-48E3-9657-44BC9E6200CB}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTalesContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\TheLumberJackTales\TheLumberJackTales\TheLumberJackTales\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-09-20T13:24:59.6652655-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

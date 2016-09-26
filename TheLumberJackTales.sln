@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLumberJackTales", "TheLumberJackTales\TheLumberJackTales\TheLumberJackTales.csproj", "{89E9F608-416C-44C7-8C70-FC8F777F41D2}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TheLumberJackTalesContent", "TheLumberJackTales\TheLumberJackTalesContent\TheLumberJackTalesContent.contentproj", "{F9BB1CEF-DF4B-48E3-9657-44BC9E6200CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89E9F608-416C-44C7-8C70-FC8F777F41D2}.Debug|x86.ActiveCfg = Debug|x86
+		{89E9F608-416C-44C7-8C70-FC8F777F41D2}.Debug|x86.Build.0 = Debug|x86
+		{89E9F608-416C-44C7-8C70-FC8F777F41D2}.Release|x86.ActiveCfg = Release|x86
+		{89E9F608-416C-44C7-8C70-FC8F777F41D2}.Release|x86.Build.0 = Release|x86
+		{F9BB1CEF-DF4B-48E3-9657-44BC9E6200CB}.Debug|x86.ActiveCfg = Debug|x86
+		{F9BB1CEF-DF4B-48E3-9657-44BC9E6200CB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
